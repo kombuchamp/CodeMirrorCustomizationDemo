@@ -133,6 +133,6 @@ triforceBtn.addEventListener("click", e => {
     lockElem.style.transform = "translateY(0)";
     setTimeout(() => {
         lockElem.style.transform = "translateY(-100%)";
-    }, 2000);
+    }, 500);
     scrollLockBtn.dispatchEvent(clickEvent);
 });

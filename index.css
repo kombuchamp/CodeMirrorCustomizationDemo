@@ -3,7 +3,8 @@ body {
 }
 .header {
     height: 100px;
-    font-size: 3em;
+    font-size: 4em;
+    color: black;
     text-align: center;
 }
 .header div {
